@@ -1,0 +1,75 @@
+body {background-color: #F0FFF0;
+      font-family:Arial, sans-serif;	  
+     }
+	 
+.topnav a{
+	     display: inline-block;
+		 color: #000099;
+		 text-decoration: none;
+		 text-align:center;
+		 background-color:#c6ff1a;
+		 font-weight: bold;
+		 
+	 }
+ .topnav a:hover{
+		 color: red;
+	 }
+	 
+ .class5 :hover{
+		 color: red;
+	 }	 
+	 
+h1 { font-size: 2.5em; 
+     font-weight: bold;
+   } 
+   
+   	 
+.assignment{
+	padding-left: 5.25em; 
+   }
+
+.assignment1{
+	padding-left: 8.75em; 
+   } 
+   
+.assignment2{
+	padding-left: 13.15em; 
+   }  
+   
+figure{
+	float:left;
+	clear:both;
+	margin-left:0%;
+	 }   
+
+.assignment3{
+	 color:#ff8000;
+     }	 
+	 
+.class1 {
+  text-align: center;
+}	 
+
+.class2 {
+  text-align: justify;
+}
+
+.class3 {
+	padding-left:15em;
+}
+
+.class4 {
+	padding-left:15em;
+}
+
+.class5{
+	text-align : center;
+}
+
+.class6{
+	padding-left:0.5em;
+}
+
+.class7{
+	padding-left:10em;
+}
